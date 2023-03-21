@@ -6,7 +6,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.interactions.Actions;
 
-public class SeleniumTest {
+public class AmazonTestCas {
     public static void main(String[] args) throws InterruptedException {
         //Setting the options of Chrome since the version 111 have an issue
         ChromeOptions options = new ChromeOptions();

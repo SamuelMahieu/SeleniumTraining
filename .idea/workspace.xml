@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21c40c2c-087b-4861-8e65-2736ca913dbc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Tests/SeleniumTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SeleniumTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tests/SeleniumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tests/AmazonTestCas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,8 +34,8 @@
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="SeleniumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tests.SeleniumTest" />
+    <configuration name="AmazonTestCas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tests.AmazonTestCas" />
       <module name="SeleniumTraining" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -45,7 +43,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SeleniumTest" />
+        <item itemvalue="Application.AmazonTestCas" />
       </list>
     </recent_temporary>
   </component>
