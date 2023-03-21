@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21c40c2c-087b-4861-8e65-2736ca913dbc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SeleniumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tests/SeleniumTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SeleniumTraining.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumTraining.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SeleniumTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +37,7 @@
 }]]></component>
   <component name="RunManager">
     <configuration name="SeleniumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SeleniumTest" />
+      <option name="MAIN_CLASS_NAME" value="Tests.SeleniumTest" />
       <module name="SeleniumTraining" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -60,5 +59,16 @@
       <updated>1678723010741</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
